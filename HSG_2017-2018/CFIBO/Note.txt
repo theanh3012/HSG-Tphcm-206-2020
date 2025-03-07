@@ -1,0 +1,3 @@
+INPUT: Farm.input
+OUTPUT: Farm.out
+Hacker Rank test case:50%
